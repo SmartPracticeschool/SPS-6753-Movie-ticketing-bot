@@ -1,0 +1,33 @@
+book,ticket,movie ticket,cine ticket
+book,reserve,book,keep,allocate,alot,place
+book,seat,seats,position
+book,book,reserve,allocate,alot,keep
+count
+email,email,"/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/"
+Enquiry,Movie,Cinema,film,movies,bollywood,cine,cinemas,mockumentary
+Greetings,Hello,hey
+Greetings,Good Evening,GE,Gud Evening,Good Eve
+Greetings,Good Morning,GM,Gud Morning,Gd Morn
+Greetings,Good Afternoon,GA,Gud Afternoon,Good Noon,Gd Afternoon
+Greetings,Hi
+list,The Batman
+list,KGF Chapter 2
+list,Pruthviraaj
+list,Laxmi Bomb
+moviename,KGF Chapter 2,KGF,kgfchapter2,kc,3
+moviename,Pruthviraaj,pruthvi,pruthviraaj,pr,2
+moviename,The Batman,thebatman,batman,tb,4
+moviename,Laxmi Bomb,laxmibomb,laxmi,lb,1
+name,name
+payment,UPI
+payment,Cash
+payment,Card
+price,price
+sys
+time,04:00 pm,04pm,04:00pm,4pm,4,4:00 pm
+time,01:00 pm,1pm,1,01:00pm,1:00pm
+time,10:00 am,10am,10,10:00am
+time,07:00 pm,7:00pm,7pm,7,07:00pm
+type,upper,u,2
+type,box,b,1
+type,lower,l,3
